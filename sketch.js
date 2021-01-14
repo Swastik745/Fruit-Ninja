@@ -38,7 +38,7 @@ function setup() {
 
 
 function draw() {
-  background("lightblue");
+  background("lightgreen");
   
   if(gameState === PLAY){
  
